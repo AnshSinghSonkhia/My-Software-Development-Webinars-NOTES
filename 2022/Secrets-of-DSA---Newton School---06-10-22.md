@@ -19,7 +19,7 @@ You develop a problem-solving mindset.
 You Develop a challenging & a good mindset. This helps you to be determinant to solve the problem in front of you.
 ```
 
-```**Don't be discouraged and be frustated at the beginning.**```   <br>
+```**Don't get discouraged and be frustated at the beginning.**```   <br>
 ```**Don't be afraid of the mathematical part.**```
 
 For mathematical part You have to know: 
