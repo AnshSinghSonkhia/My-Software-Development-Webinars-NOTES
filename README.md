@@ -1,2 +1,2 @@
-# My-Software-Development-Webinars-NOTES
+# My Software Development Webinars NOTES
 My Own NOTES of the webinars &amp; Seminars attended by me...
