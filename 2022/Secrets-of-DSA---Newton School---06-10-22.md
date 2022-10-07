@@ -1,4 +1,9 @@
-Secrets of Data Structure and Algorithms - Newton School
+# <b>The Secrets of Data Structure and Algorithms</b> - <i>Newton School</i>
+```
+Speaker: Harekrishna Mahto - Software Engineer at Google
+Organised By: Newton School
+Date: 06/10/2022
+```
 
 ## Why should you learn DSA?
 - Skillset
